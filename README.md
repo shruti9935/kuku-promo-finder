@@ -399,27 +399,8 @@ python run.py --input "data/<show>" --episodes 1-10 --no-cache   # consistency: 
 To score against your own picks, write a `gold.json` like this and run `evaluate.py` with it:
 
 ```json
-[{"episode": 1, "start": "00:33.80", "end": "01:14.60", "note": "betrayal at the altar"}]
-```
 
----
-
-## 10. Results on the full show
-
-On all 50 episodes of *I Married a Broken Soldier. He was a Duke* (`outputs/final/run-20261108-133127/`):
-
-| | |
-|---|---|
-| Candidates → promos | 147 → 118; every episode covered; all 20–60 s (median 38 s); 4 cross-episode montages |
-| Reference picks found | 10/10 (precision 15/17) |
-| Weak endings fixed by re-cut | 51 → 12 (39 re-cuts kept) |
-| Judge sanity check | original ending beats early cut 7/10; original hook beats slow start 5/10 |
-| Consistency (fresh re-run, episodes 1–10) | 19 of 23 moments found again; all of the top 5 found again |
-| Cost | 29 AI calls, ≈ 18 min, ₹0 on Gemini's free tier (≈ $0.25 at paid rates) |
-
----
-
-## 11. Known weak spots
+## 10 Known weak spots
 
 - **The top of the ranking is noisy.** About a quarter of clips score a perfect 5/5/5, and a fresh run orders the top 5 differently. Treat the top 20 as "all strong, an editor chooses".
 - **Visual hooks.** A slap or a scar reveal exists only as a camera or action description, so the AI can under- or over-rate scenes that depend on the picture.
@@ -428,7 +409,3 @@ On all 50 episodes of *I Married a Broken Soldier. He was a Duke* (`outputs/fina
 - **Free-tier limits.** Gemini's free tier allows 20 requests per model per day. A 50-episode show fits; several shows a day need a paid key or another provider.
 
 ---
-
-## 12. Confidential data
-
-Kuku's script pack is confidential. `data/` (the scripts), `.env` (your key) and `.cache/` are git-ignored and never committed. The run outputs quote script lines, so **this repository must stay private**. The web app accepts uploaded scripts, so it never needs the data stored on a server.
