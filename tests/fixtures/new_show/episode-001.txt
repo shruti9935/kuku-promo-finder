@@ -1,0 +1,122 @@
+EPISODE NUMBER: Episode 1
+EPISODE LOGLINE: A humiliated waitress at a billionaire's engagement party is revealed to be his secret wife.
+CONTINUITY NOTES: Test fixture.
+
+--- SCRIPT START ---
+
+SCENE 01
+Scene heading: EXT. ROOFTOP PARTY – NIGHT
+Scene start: 00:00.00
+Scene end: 01:10.00
+
+Actions and dialogue:
+
+**CAMERA:**
+Start: (00:00.00) | End: (00:03.00)
+Wide shot of a glittering rooftop engagement party, city lights behind.
+
+**ACTION:**
+Start: (00:00.50) | End: (00:03.00)
+Maya, a waitress in a black apron, carries a tray of champagne through the crowd.
+
+**CAMERA:**
+Start: (00:03.00) | End: (00:06.00)
+Medium shot as Vanessa, in a red dress, steps into Maya's path.
+
+**VANESSA (Mocking):**
+Start: (00:03.50) | End: (00:05.80)
+"Careful. That tray costs more than your rent."
+
+**MAYA (Quiet):**
+Start: (00:06.20) | End: (00:07.80)
+"Excuse me, ma'am."
+
+**CAMERA:**
+Start: (00:08.00) | End: (00:11.00)
+Close-up on Vanessa tipping a full glass of red wine down Maya's white shirt.
+
+**ACTION:**
+Start: (00:08.20) | End: (00:10.50)
+Vanessa pours the wine slowly over Maya, smiling.
+
+**SOUND FX:**
+Start: (00:08.40) | End: (00:10.40)
+Splash of wine, gasps from the guests.
+
+**VANESSA (Cruel):**
+Start: (00:11.00) | End: (00:14.00)
+"Oops. Now you finally match the help."
+
+**CAMERA:**
+Start: (00:14.00) | End: (00:17.00)
+Guests laugh and raise phones to film.
+
+**GUEST (Laughing):**
+Start: (00:14.50) | End: (00:16.00)
+"Get her out of here!"
+
+**MAYA (Trembling):**
+Start: (00:17.50) | End: (00:20.00)
+"You did that on purpose."
+
+**VANESSA (Icy):**
+Start: (00:20.50) | End: (00:24.00)
+"Prove it. Who would believe a waitress over the future Mrs. Ethan Cole?"
+
+**CAMERA:**
+Start: (00:24.00) | End: (00:27.00)
+The elevator doors open. Ethan Cole, the billionaire host, steps out and freezes.
+
+**ACTION:**
+Start: (00:24.50) | End: (00:27.00)
+Ethan stares at Maya, his face draining of color.
+
+**ETHAN (Stunned):**
+Start: (00:27.50) | End: (00:29.00)
+"Maya?"
+
+**VANESSA (Confused):**
+Start: (00:29.50) | End: (00:31.50)
+"You know this... servant?"
+
+**CAMERA:**
+Start: (00:31.50) | End: (00:35.00)
+Slow push in on Ethan walking straight past Vanessa to Maya.
+
+**ETHAN (Low, Furious):**
+Start: (00:35.00) | End: (00:38.50)
+"Who did this to my wife?"
+
+**SOUND FX:**
+Start: (00:38.60) | End: (00:40.00)
+The whole party falls silent. A glass shatters.
+
+**CAMERA:**
+Start: (00:40.00) | End: (00:43.00)
+Close-up on Vanessa, her smile cracking.
+
+**VANESSA (Whisper):**
+Start: (00:43.00) | End: (00:45.00)
+"Your... wife?"
+
+**CAMERA:**
+Start: (00:45.00) | End: (00:52.00)
+Ethan takes off his jacket and wraps it around Maya's shoulders.
+
+**MAYA (Cold):**
+Start: (00:52.00) | End: (00:56.00)
+"Three years ago you told me to disappear, Ethan."
+
+**ETHAN (Pleading):**
+Start: (00:56.50) | End: (01:00.00)
+"I was wrong. I have been looking for you every single day."
+
+**MAYA (Steely):**
+Start: (01:00.50) | End: (01:04.00)
+"Then you should know. I came back to destroy your company."
+
+**CAMERA:**
+Start: (01:04.00) | End: (01:10.00)
+Extreme close-up on Ethan's eyes as the words land. Cut to black.
+
+--- SCRIPT END ---

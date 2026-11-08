@@ -1,0 +1,86 @@
+EPISODE NUMBER: Episode 2
+EPISODE LOGLINE: Maya returns as the majority shareholder of her husband's company.
+CONTINUITY NOTES: Test fixture.
+
+--- SCRIPT START ---
+
+SCENE 01
+Scene heading: INT. BOARDROOM – DAY
+Scene start: 00:00.00
+Scene end: 00:56.00
+
+Actions and dialogue:
+
+**CAMERA:**
+Start: (00:00.00) | End: (00:03.00)
+Interior of a sleek boardroom. Morning light.
+
+**ACTION:**
+Start: (00:00.30) | End: (00:03.00)
+Board members argue over a stack of reports.
+
+**BOARD MEMBER (Annoyed):**
+Start: (00:03.20) | End: (00:06.00)
+"Our shares dropped twelve percent overnight."
+
+**BOARD MEMBER (Annoyed):**
+Start: (00:06.50) | End: (00:09.00)
+"Someone has been buying our debt in secret."
+
+**CAMERA:**
+Start: (00:09.00) | End: (00:12.00)
+Ethan at the head of the table, sleepless, staring at his phone.
+
+**ETHAN (Distracted):**
+Start: (00:12.00) | End: (00:14.00)
+"Find out who."
+
+**CAMERA:**
+Start: (00:14.00) | End: (00:20.00)
+The doors swing open. Maya walks in wearing a sharp white suit.
+
+**MAYA (Confident):**
+Start: (00:20.00) | End: (00:23.00)
+"No need. I'm right here."
+
+**SOUND FX:**
+Start: (00:23.00) | End: (00:24.00)
+Chairs scrape. Murmurs.
+
+**VANESSA (Outraged):**
+Start: (00:24.50) | End: (00:27.00)
+"Security! The waitress is back!"
+
+**MAYA (Calm):**
+Start: (00:27.50) | End: (00:31.00)
+"The waitress now owns thirty-one percent of this company."
+
+**ACTION:**
+Start: (00:31.00) | End: (00:33.00)
+Maya drops a signed share certificate on the table.
+
+**CAMERA:**
+Start: (00:33.00) | End: (00:36.00)
+Close-up on the certificate: MAYA LIN, MAJORITY HOLDER.
+
+**ETHAN (Shaken):**
+Start: (00:36.50) | End: (00:39.00)
+"Where did you get this kind of money?"
+
+**MAYA (V.O.) (Bitter):**
+Start: (00:39.50) | End: (00:44.00)
+"From the man who really owns this company. Your father."
+
+**CAMERA:**
+Start: (00:44.00) | End: (00:47.00)
+Ethan's father appears in the doorway behind Maya, leaning on a cane.
+
+**FATHER (Grave):**
+Start: (00:47.50) | End: (00:51.00)
+"Sit down, son. It is time you learned the truth about your mother."
+
+**CAMERA:**
+Start: (00:51.00) | End: (00:56.00)
+Ethan's knees buckle as he sinks into his chair. Cut to black.
+
+--- SCRIPT END ---

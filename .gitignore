@@ -1,0 +1,28 @@
+
+# API keys and environment variables
+.env
+.env.*
+!.env.example
+
+# Confidential input data
+data/
+
+# Generated outputs (submit separately)
+outputs/
+
+# Solution document (submit separately)
+docs/
+
+# Private evaluation data
+gold_draft.json
+
+# Python temporary files
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+.cache/
+
+# Other private files
+share/
+
