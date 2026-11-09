@@ -400,12 +400,3 @@ To score against your own picks, write a `gold.json` like this and run `evaluate
 
 ```json
 
-## 10 Known weak spots
-
-- **The top of the ranking is noisy.** About a quarter of clips score a perfect 5/5/5, and a fresh run orders the top 5 differently. Treat the top 20 as "all strong, an editor chooses".
-- **Visual hooks.** A slap or a scar reveal exists only as a camera or action description, so the AI can under- or over-rate scenes that depend on the picture.
-- **Spoilers are a judgment call.** Flagged clips are moved to "Hold for later", not deleted.
-- **Montages** join different scenes and may jump in costume, lighting or music, so an editor should check them.
-- **Free-tier limits.** Gemini's free tier allows 20 requests per model per day. A 50-episode show fits; several shows a day need a paid key or another provider.
-
----
